@@ -4,4 +4,6 @@
 
 
 Estande da turma de Informática para Internet. Responsável pela demonstração da maquete sobre sistema embarcado à tarde. 
-Integrantes: Alice Bárbara Olimpio Filgueiras (1°ano do E.M.), Marina Aparecida Fais (1°ano do E.M.) & Rafael Moreira Benetolo (3°ano do E.M.)
+
+
+Integrantes: Alice Bárbara Olimpio Filgueiras (1°ano do E.M.), Marina Aparecida Fais (1°ano do E.M.) & Rafael Moreira Benetolo (3°ano do E.M.).
