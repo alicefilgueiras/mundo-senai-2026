@@ -1,4 +1,5 @@
 # mundo-senai-2026
+
 # Mundo SENAI 2026
 
 ## 📌 Sobre o Evento
