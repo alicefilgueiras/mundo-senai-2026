@@ -1,6 +1,6 @@
 # Processo de Desenvolvimento: 
 
-#**Mini Workshop de IA**
+#Mini Workshop de IA
 
 Este documento registra a trajetória de organização, planejamento e execução do mini workshop de Inteligência Artificial apresentado no período da manhã durante o **Mundo SENAI 2026**.
 
@@ -28,7 +28,7 @@ Este documento registra a trajetória de organização, planejamento e execuçã
 - **Apresentação Final:** Conduzimos o mini workshop de IA para os visitantes e turmas que passaram pelo laboratório no período da manhã.
 
 ---
-#**Sistema Embarcado**
+#Sistema Embarcado
 
 Este documento descreve o processo de preparação, alinhamento técnico e condução das apresentações sobre o projeto de **Sistema Embarcado** no período da tarde do **Mundo SENAI 2026**.
 
